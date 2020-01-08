@@ -1,0 +1,11 @@
+# Self-hosting {#self}
+
+## AWS account setup
+
+## Frontend
+
+## Backend
+
+### Serverless
+
+### ECS cluster

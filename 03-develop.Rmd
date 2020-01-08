@@ -1,0 +1,20 @@
+# Develop {#develop}
+
+## Frontend
+### CICD setup
+### React
+#### primer
+#### pages
+
+## Backend
+### CICD setup
+
+### Serverless setup
+#### App architecture
+#### Services
+
+### Docker setup
+#### Dockerfile
+#### R scripts
+#### shell scripts
+
